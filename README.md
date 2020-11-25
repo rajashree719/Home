@@ -32,7 +32,7 @@ There are many ways in which you can participate in the project, for example:
 * [Review NuGet proposals](https://github.com/NuGet/Home/pulls)
 * [Review the documentation and make pull requests for anything from typos to new content](https://github.com/NuGet/docs.microsoft.com-nuget)
 
-If you are interested in fixing issues and contributing directly to the code base, please see the document [Contribute To NuGet](https://github.com/NuGet/Home/wiki/Contribute-to-NuGet), which covers the following:
+If you are interested in fixing issues and contributing directly to the code base, please see the document [Contribute To NuGet](https://github.com/NuGet/Home/wiki/Contribute-to-NuGet) which covers the following:
 
 * How to build and run from source
 * The development workflow, including debugging and running tests
